@@ -1,0 +1,23 @@
+{
+  "slug": "rack_modules",
+  "name": "rack_modules",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "rack_modules",
+  "author": "Jeremy Ellington",
+  "authorEmail": "jeremy@eminor.net",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "poc",
+      "name": "poc",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
