@@ -1,0 +1,11 @@
+# -*- mode: org -*-
+#+STARTUP: showeverything
+
+Experimentation with VCV Rack
+
+* Building
+#+begin_src sh
+export RACK_DIR=/Users/jme/Rack-SDK
+make
+make install
+#+end_src
